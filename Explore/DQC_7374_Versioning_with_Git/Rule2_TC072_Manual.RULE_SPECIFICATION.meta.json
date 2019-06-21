@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "8ACA4x5RKI8hV2MOaGy1s6",
+    "name" : "Rule2_TC072_Manual",
+    "type" : "RULE_SPECIFICATION",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8ACA4x5RKI8hV2MOaGy1s6"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
