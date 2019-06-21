@@ -1,0 +1,94 @@
+{
+  "objectInfo" : {
+    "id" : "6ljxr8b8MlkhxAJQyVnGeF",
+    "name" : "m_Presales_Mapping_RuleWithDictionary",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100HA1700000000000Y"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "69b20Zp9fpgcX1x1jtwpmU",
+        "name" : "target_connection",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100HA0B000000000004"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "8k8QdV7vZopdVhqryynEcF",
+        "name" : "ExpImp_Presales_RuleWithDictionary_RS",
+        "type" : "RULE_SPECIFICATION",
+        "path" : "/Explore/DQC_7374_Versioning_with_Git",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 1,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "8k8QdV7vZopdVhqryynEcF"
+          },
+          "contextAttributes" : [ ],
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "Binary",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "8zqJpd59qf4j7t5KTtlD4l",
+        "name" : "source_connection",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100HA0B000000000003"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
