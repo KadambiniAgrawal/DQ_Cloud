@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "16FvMExc0EIerfzuNwiAYh",
+    "name" : "Rule3_TC072_Partial",
+    "type" : "RULE_SPECIFICATION",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "16FvMExc0EIerfzuNwiAYh"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
