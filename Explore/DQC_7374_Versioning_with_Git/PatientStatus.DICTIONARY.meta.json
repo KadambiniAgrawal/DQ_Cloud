@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "08E3bpdeBopkvxIPHZEtAT",
+    "name" : "PatientStatus",
+    "type" : "DICTIONARY",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "08E3bpdeBopkvxIPHZEtAT"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
