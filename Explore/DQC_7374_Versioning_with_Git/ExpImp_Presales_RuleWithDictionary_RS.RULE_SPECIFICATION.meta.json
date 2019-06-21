@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "8k8QdV7vZopdVhqryynEcF",
+    "name" : "ExpImp_Presales_RuleWithDictionary_RS",
+    "type" : "RULE_SPECIFICATION",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8k8QdV7vZopdVhqryynEcF"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "08E3bpdeBopkvxIPHZEtAT",
+        "name" : "PatientStatus",
+        "type" : "DICTIONARY",
+        "path" : "/Explore/DQC_7374_Versioning_with_Git",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 1,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "08E3bpdeBopkvxIPHZEtAT"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "Binary",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
