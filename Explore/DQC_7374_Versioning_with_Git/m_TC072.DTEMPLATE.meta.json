@@ -1,0 +1,116 @@
+{
+  "objectInfo" : {
+    "id" : "aCyNdYmVI17ceiHAxExZky",
+    "name" : "m_TC072",
+    "type" : "DTEMPLATE",
+    "path" : "/Explore/DQC_7374_Versioning_with_Git",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100HA1700000000000X"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "A simple mapping using rule specification",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      },
+      "objectRefs" : [ {
+        "id" : "8ACA4x5RKI8hV2MOaGy1s6",
+        "name" : "Rule2_TC072_Manual",
+        "type" : "RULE_SPECIFICATION",
+        "path" : "/Explore/DQC_7374_Versioning_with_Git",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 1,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "8ACA4x5RKI8hV2MOaGy1s6"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "",
+            "contentType" : "Binary",
+            "documentState" : "INVALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "69b20Zp9fpgcX1x1jtwpmU",
+        "name" : "target_connection",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100HA0B000000000004"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "16FvMExc0EIerfzuNwiAYh",
+        "name" : "Rule3_TC072_Partial",
+        "type" : "RULE_SPECIFICATION",
+        "path" : "/Explore/DQC_7374_Versioning_with_Git",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 1,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "16FvMExc0EIerfzuNwiAYh"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : "",
+            "contentType" : "Binary",
+            "documentState" : "VALID"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      }, {
+        "id" : "8zqJpd59qf4j7t5KTtlD4l",
+        "name" : "source_connection",
+        "type" : "Connection",
+        "path" : "/SYS",
+        "metadata" : {
+          "modelVersion" : {
+            "major" : 0,
+            "minor" : 0
+          },
+          "repoInfo" : {
+            "repoHandle" : "0100HA0B000000000003"
+          },
+          "contextAttributes" : null,
+          "additionalInfo" : {
+            "description" : null,
+            "contentType" : "JSON",
+            "documentState" : "COMPLETE"
+          },
+          "objectRefs" : [ ]
+        },
+        "dataFileExtension" : null
+      } ]
+    },
+    "dataFileExtension" : "zip"
+  }
+}
